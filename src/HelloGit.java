@@ -8,8 +8,12 @@ public class HelloGit {
 =======
 		System.out.println("Hello Git!!!!");
 		System.out.println("test1");
+<<<<<<< HEAD
 >>>>>>> branch 'main' of https://github.com/ricpdc/PracticasSI.git
 
+=======
+		System.out.println("Hola Mundo");
+>>>>>>> branch 'main' of https://github.com/ricpdc/PracticasSI.git
 	}
 
 }
